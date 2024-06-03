@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e31903dcea58ffc41b61b02cb1a738df, type: 3}
+  m_Name: Archer Data
+  m_EditorClassIdentifier: 
+  characterType: 2
+  initLevel: 1
+  initHp: 100
+  initDamage: 15
+  attackRange: 4
+  attackSpeed: 1
+  skilRange: 4
+  skilCoolDownTime: 4
+  initMaxExp: 100
+  level: 2
+  maxHp: 110
+  damage: 16.5
+  curExp: 190
+  maxExp: 150

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e31903dcea58ffc41b61b02cb1a738df, type: 3}
+  m_Name: Priest Data
+  m_EditorClassIdentifier: 
+  characterType: 3
+  initLevel: 1
+  initHp: 100
+  initDamage: 10
+  attackRange: 4
+  attackSpeed: 1
+  skilRange: 4
+  skilCoolDownTime: 6
+  initMaxExp: 100
+  level: 1
+  maxHp: 100
+  damage: 10
+  curExp: 170
+  maxExp: 100
